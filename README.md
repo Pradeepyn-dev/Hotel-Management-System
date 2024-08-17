@@ -1,9 +1,6 @@
 🏨 Hotel Management System
 A simple hotel booking website with a content management system. Users can book rooms for specific dates, while the admin has full control over room details and application management..
 
-🎥 Video Link
-Watch the demo at: https://www.youtube.com/watch?v=rKwBxxVXWkM&t=7s
-
 🛠️ Tech Stack
 •	HTML
 •	CSS
